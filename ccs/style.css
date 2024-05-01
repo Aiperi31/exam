@@ -3,16 +3,17 @@
     margin: 0;
 }
 .container {
-    width: 1200px;
+    width: 1240px;
     margin: 0 auto;
     padding: 20px 20px;
 }
 .header {
-    width: 1200px;
+
 height: 60px;
 background: rgba(244, 253, 254, 1);
 
 }
+
 .header a {
 
     text-decoration: none;
@@ -51,4 +52,181 @@ border: none;
     align-items: center;
     justify-content: space-around;
     gap: 30px;
+}
+.hero h1 {
+    font-family: Playfair Display;
+font-size: 68px;
+font-weight: 700;
+line-height: 81.6px;
+text-align: left;
+color: rgba(12, 22, 35, 1);
+text-transform: capitalize;
+}
+.hero span {
+    font-family: Playfair Display;
+font-size: 68px;
+font-weight: 700;
+line-height: 81.6px;
+text-align: left;
+color: rgba(0, 149, 164, 1);
+}
+.hero p {
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 27.2px;
+text-align: left;
+color: rgba(18, 34, 55, 1);
+}
+.hero button {
+    width: 154px;
+    height: 52px;
+    border-radius: 60px;
+    background: rgba(0, 149, 164, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    font-family: Playfair Display;
+font-size: 18px;
+font-weight: 700;
+line-height: 21.6px;
+text-align: center;
+margin-top: 10px;
+
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+.hero-box {
+    width: 353px;
+height: 181px;
+border-radius: 6px ;
+background: rgba(255, 255, 255, 1);
+
+
+}
+.hero-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+
+.hero-box h4 {
+    font-family: Playfair Display;
+font-size: 18px;
+font-weight: 600;
+line-height: 21.6px;
+text-align: left;
+color: rgba(12, 22, 35, 1);
+text-transform: capitalize;
+}
+.hero-box h5 {
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(62, 86, 88, 0.7);
+text-transform: capitalize;
+padding: 10px 0;
+}
+
+.hero-box button {
+    width: 92px;
+height: 28px;
+top: 637px;
+left: 225px;
+border-radius: 10px;
+font-family: Playfair Display;
+border: none;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.8px;
+color: rgba(54, 198, 207, 1);
+background: rgba(162, 166, 168, 0.7);
+text-transform: capitalize;
+
+
+}
+.hero-box p {
+    font-family: Playfair Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.6px;
+text-align: left;
+color: rgba(54, 198, 207, 1);
+padding-top: 10px;
+}
+.img {
+
+    position: absolute;
+    padding-top: 20px;
+    padding: 50px 40px;
+    
+  
+
+}
+
+.hero-box {
+    position: absolute;
+    margin-top: 150px;
+
+}
+.hero-box2 {
+    width: 288px;
+height: 189px;
+left: 1048px;
+top: 230px;
+border-radius: 6px;
+background:white;
+position: absolute;
+
+}
+.hero-block2 {
+    width: 62px;
+height: 62px;
+padding-left: 245px;
+
+}
+
+.block h4 {
+    font-family: Playfair Display;
+font-size: 24px;
+font-weight: 500;
+color: rgba(2, 28, 28, 1);
+text-transform: capitalize;
+padding-left: 15px;
+
+}
+
+.block h5 {
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+color: rgba(62, 86, 88, 0.7);
+text-transform: capitalize;
+padding-left: 15px;
+}
+
+.block span {
+    font-family: Playfair Display;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+color: rgba(54, 198, 207, 1);
+}
+.block p {
+    font-family: Playfair Display;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.2px;
+padding-left: 15px;
+color: rgba(18, 34, 55, 1);
 }
