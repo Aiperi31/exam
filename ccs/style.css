@@ -494,3 +494,141 @@ text-transform: capitalize;
 .gallery h2 {
     padding-top: 70px;
 }
+.end {
+    background: white;
+    width: 1240px;
+    height: 180px;
+
+}
+
+.application img {
+    position: absolute;
+}
+.application-block {
+    position: relative;
+    
+}
+.application-block h2 {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+line-height: 57.6px;
+letter-spacing: 0.03em;
+color: white;
+text-transform: capitalize;
+padding-top: 120px;
+padding-left: 100px;
+}
+
+.application-block span {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+line-height: 57.6px;
+letter-spacing: 0.03em;
+color:rgba(9, 151, 164, 1); ;
+
+}
+.application-block p {
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 27.2px;
+color: white;
+padding-left: 100px;
+}
+.application-box {
+    width: 510px;
+height: 644px;
+border-radius: 280.51px 280.51px 0px 0px;
+background: white;
+margin-left: 850px;
+
+
+}
+.application-box h5{
+    font-family: Playfair Display;
+font-size: 24px;
+font-weight: 600;
+line-height: 28.8px;
+text-align: center;
+color: rgba(12, 22, 35, 1);
+padding-top: 30px;
+
+}
+.application-box h4 {
+    font-family: Playfair Display;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.2px;
+padding-left: 70px ;
+color: rgba(12, 22, 35, 1);
+}
+
+.application-boxes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.application-boxes input {
+    width: 180px;
+height: 45px;
+border-radius: 6.04px ;
+border: 0.57px solid rgba(118, 152, 154, 1);
+background: rgb(202, 233, 234);
+
+}
+.application-boxes input::placeholder {
+    font-family: Playfair Display;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+color: rgba(16, 28, 38, 0.6);
+text-align: center;
+  
+}
+
+.input3 {
+ width: 400px;
+height: 100px;
+border-radius: 6.04px ;
+border: 0.57px;
+border: 0.57px solid rgba(118, 152, 154, 1);
+background:rgb(202, 233, 234);
+margin-left: 50px;
+
+
+}
+.input3::placeholder {
+    font-family: Playfair Display;
+font-size: 16px;
+font-weight: 400;
+color: rgba(16, 28, 38, 0.6);
+text-align: center;
+  
+}
+.application-box button {
+    width: 379.09px;
+height: 45.67px;
+border-radius: 31.52px ;
+background: rgba(3, 149, 164, 1);
+border: none;
+font-family: Playfair Display;
+font-size: 18px;
+font-weight: 700;
+line-height: 21.6px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+margin-left: 55px;
+margin-top: 20px;
+
+}
+
+.application-box p {
+    font-family: Taviraj;
+font-size: 12.66px;
+font-weight: 400;
+color: rgba(110, 113, 137, 1);
+}
+
+    
