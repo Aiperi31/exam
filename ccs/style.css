@@ -367,7 +367,7 @@ padding-top: 20px;
 .rec-box {
     width: 240px;
 height: 300px;
-border-radius: 5px ;
+border-radius: 8px ;
 background:white;
 box-shadow: 6px 8px 46px 10px rgba(130, 172, 162, 0.25);
 
@@ -385,6 +385,112 @@ color: rgba(0, 149, 164, 1);
     justify-content: space-around;
     position: relative;
     margin-top: 150px;
-   
 
+}
+.info {
+    background: rgba(232, 239, 244, 1);
+}
+.info-box {
+width: 370px;
+height: 446px;
+border-radius: 10px;
+background:white;
+box-shadow: 6px 8px 40px 0px rgba(164, 166, 168, 0.25);
+
+
+}
+.info h2 {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+line-height: 57.6px;
+text-align: center;
+color: black;
+padding-top: 20px;
+
+}
+.info span {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+line-height: 57.6px;
+text-align: center;
+color: rgba(0, 149, 164, 1); ;
+
+}
+.info p {
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: center;
+color: rgba(16, 28, 38, 0.8);
+padding: 17px 0;
+
+}
+
+.info h3 {
+    font-family: Playfair Display;
+font-size: 32px;
+font-weight: 600;
+line-height: 38.4px;
+text-align: center;
+color: rgba(12, 22, 35, 1);
+padding-top: 12px;
+
+}
+
+.info h5 {
+font-family: Playfair Display;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: center;
+color: rgba(9, 151, 164, 1);
+text-transform: capitalize;
+
+}
+.info-block {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+
+}
+
+.gallery1 {
+    position: absolute;
+    padding-left: 20px;
+}
+.gallery2 {
+    position: relative;
+    padding-top: 130px;
+    padding-left: 70px;
+}
+.gallery3 {
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.gallery4 {
+    position: relative;
+    padding-left: 220px;
+    padding-top: 150px;
+}
+.gallery5 {
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.gallery6 {
+    position: relative;
+    padding-left: 60px;
+}
+.gallery7 {
+    padding-left: 30px;
+}
+.gallery h2 {
+    padding-top: 70px;
 }
