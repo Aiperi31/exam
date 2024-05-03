@@ -631,4 +631,106 @@ font-weight: 400;
 color: rgba(110, 113, 137, 1);
 }
 
+.accord {
+width: 1240px;
+height: 500px;
+background: rgba(232, 239, 244, 1);
+padding-top: 70px;
+
+}
+
+.accord h2 {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+line-height: 62.4px;
+color: rgba(12, 22, 35, 1);
+
+
+
+}
+.accord span {
+    font-family: Playfair Display;
+font-size: 48px;
+font-weight: 600;
+color: rgba(3, 149, 164, 1);
+
+}
+.accord p {
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+color: rgba(16, 28, 38, 0.8);
+padding-top: 10px;
+
+}
+
+.faq {
+ width: 600px;
+height: 80px;
+border-radius: 5px;
+border-radius: 5px;
+padding-top: 10px;
+
+
+  
+}
+
+.faq-item {
+    border: 1px solid white;
+    border-radius: 5px;
+    background: hsl(0, 0%, 100%);
+  
+}
+
+.faq-text {
+display: none;
+font-family: Barlow;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.8px;
+text-align: left;
+color: white;
+padding: 10px 15px ;
+}
+  
+  
+.faq-title {
+color: rgba(12, 22, 35, 1);
+font-family: Barlow;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  text-align: left;
+  display: block;
+  cursor:pointer;
+  padding: 10px 15px ;
+
+}
+
+.faq-unput {
+    width: 0;
+    height: 0;
+    -webkit-appearance: none;
+    appearance: none;
+    position: absolute;
+} 
+
+.faq-input:checked + .faq-text{
+    display: block;
+}
+
+.faq-1 {
+margin:20px 0 ;
+border-radius: 5px ;
+border: 1px solid rgba(63, 195, 202, 1);
+box-shadow: 6px 10px 50px 10px rgba(151, 196, 248, 0.25);
+
+
+ }
+
+.accord {
+    display: flex;
+    justify-content: space-around;
     
+ }
