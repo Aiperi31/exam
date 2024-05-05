@@ -1015,6 +1015,7 @@ padding: 20px 20px;
         width: 60%;
 
     }
+   
     .recomend h3 {
         font-size: 40px;
         
@@ -1023,15 +1024,16 @@ padding: 20px 20px;
         font-size: 40px;
 
     }
+    .recomend {
+        width: 99%;
+    }
 
     .recomend-block {
         width: 80%;
     }
-    .recomend-boxes {
-        width: 90%;
-    }
+  
     .info-box {
-        width: 50%;
+        width: 70%;
     }
     .application {
         width: 80%;
@@ -1075,6 +1077,15 @@ padding: 20px 20px;
         width: 80%;
        
     }
+    .info-block {
+        width: 70%;
+    }
+
+    .info-box {
+        width: 70%;
+        margin-right: 10px;
+    }
+    
     .input3 {
         height: 10%;
     }
@@ -1106,9 +1117,10 @@ padding: 20px 20px;
         color: black;
     }
     .footer-end {
-        width: 80%;
+        
         background: white;
         color: black;
+        
     }
 }
 
