@@ -984,12 +984,12 @@ padding: 20px 20px;
       width: 60%;
     }
     .info-block {
-     width: 70%;
+     width: 80%;
 
     }
 
     .info-box {
-      width: 70%;
+      width: 80%;
     }
 
     .application {
@@ -1033,10 +1033,10 @@ padding: 20px 20px;
         width: 80%;
     }
     .info-block {
-        width: 70%;
+        width: 80%;
     }
     .info-box {
-        width: 70%;
+        width: 80%;
     }
     .application {
         width: 80%;
@@ -1081,11 +1081,11 @@ padding: 20px 20px;
        
     }
     .info-block {
-        width: 70%;
+        width: 80%;
     }
 
     .info-box {
-        width: 70%;
+        width: 80%;
         margin-right: 10px;
     }
 
@@ -1135,11 +1135,11 @@ padding: 20px 20px;
     }
 
     .info-block {
-        width: 70%;
+        width: 80%;
     }
 
     .info-box {
-        width: 70%;
+        width: 80%;
         margin-right: 10px;
     }
 }
