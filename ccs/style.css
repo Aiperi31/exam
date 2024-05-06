@@ -984,11 +984,12 @@ padding: 20px 20px;
       width: 60%;
     }
     .info-block {
-     width: 80%;
+     width: 70%;
 
     }
+
     .info-box {
-      width: 80%;
+      width: 70%;
     }
 
     .application {
@@ -1031,7 +1032,9 @@ padding: 20px 20px;
     .recomend-block {
         width: 80%;
     }
-  
+    .info-block {
+        width: 70%;
+    }
     .info-box {
         width: 70%;
     }
@@ -1085,7 +1088,7 @@ padding: 20px 20px;
         width: 70%;
         margin-right: 10px;
     }
-    
+
     .input3 {
         height: 10%;
     }
